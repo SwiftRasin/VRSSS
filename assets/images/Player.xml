@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Player.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Viking0000" x="15" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0001" x="15" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0002" x="242" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0003" x="242" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0004" x="469" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0005" x="469" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0006" x="469" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0007" x="469" y="15" width="212" height="292"/>
+	<SubTexture name="Viking0008" x="469" y="15" width="212" height="292"/>
+	<SubTexture name="Viking Sword0000" x="696" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0001" x="696" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0002" x="962" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0003" x="962" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0004" x="1228" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0005" x="1228" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0006" x="1494" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0007" x="1494" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0008" x="1760" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0009" x="1760" y="15" width="251" height="297"/>
+	<SubTexture name="Viking Sword0010" x="15" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0011" x="15" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0012" x="281" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0013" x="281" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0014" x="547" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0015" x="547" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0016" x="813" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword0017" x="813" y="327" width="251" height="297"/>
+	<SubTexture name="Viking Sword FIRE0000" x="1079" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0001" x="1079" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0002" x="1347" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0003" x="1347" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0004" x="1615" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0005" x="1615" y="327" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0006" x="15" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0007" x="15" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0008" x="283" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0009" x="283" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0010" x="551" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0011" x="551" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0012" x="819" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0013" x="819" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0014" x="1087" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0015" x="1087" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0016" x="1355" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Sword FIRE0017" x="1355" y="639" width="253" height="297"/>
+	<SubTexture name="Viking Walk0000" x="1623" y="639" width="211" height="289"/>
+	<SubTexture name="Viking Walk0001" x="1623" y="639" width="211" height="289"/>
+	<SubTexture name="Viking Walk0002" x="15" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0003" x="15" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0004" x="241" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0005" x="241" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0006" x="467" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0007" x="467" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0008" x="693" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0009" x="693" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0010" x="919" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0011" x="919" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0012" x="1145" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0013" x="1145" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0014" x="1371" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0015" x="1371" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0016" x="1597" y="951" width="211" height="289"/>
+	<SubTexture name="Viking Walk0017" x="1597" y="951" width="211" height="289"/>
+</TextureAtlas>
